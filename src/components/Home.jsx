@@ -10,9 +10,9 @@ const Home = () => {
       <div className=' max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row '>
         <div className=' flex flex-col justify-center h-full'>
           <h2 className=' text-4xl sm:text-7xl font-bold text-white'>
-            I'm a FULL Stack Developer
+            I	&apos;m a FULL Stack Developer
           </h2>
-          <p className=' text-gray-400 py-4 max-w-end'>c
+          <p className=' text-gray-400 py-4 max-w-end'>
           I am a MERN developer who builds web applications using MongoDB,
            Express.js, React, and Node.js, covering both front-end
            and back-end development along with fullstack framework like Next js for dynamic and efficient applications.
