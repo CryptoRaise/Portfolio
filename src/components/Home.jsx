@@ -13,7 +13,7 @@ const Home = () => {
             I	&apos;m a FULL Stack Developer
           </h2>
           <p className=' text-gray-400 py-4 max-w-end'>
-          I am a MERN developer who builds web applications using MongoDB,
+          I am a FULL Stack developer who builds web applications using MongoDB,
            Express.js, React, and Node.js, covering both front-end
            and back-end development along with fullstack framework like Next js for dynamic and efficient applications.
           </p>
@@ -24,8 +24,8 @@ const Home = () => {
             </Link>
         </div>
         
-        <div className=' h-[35%] w-[60%]'>
-          <Image src={Hero} alt='my-profile' className=' rounded-2xl mx-auto w-2/3 md:w-full'/>
+        <div className=''>
+          <Image src={Hero} alt='my-profile' width={1000} height={1000} className=' rounded-2xl mx-auto w-2/3 md:w-full'/>
         </div>
       </div>
     </div>
